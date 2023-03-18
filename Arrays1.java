@@ -8,9 +8,6 @@ class Arrays1{
 				if(arr[i]>max){
 					max=arr[i];
 				}
-				else{
-					max=max;
-				}
 			
 		}
 		System.out.println(max);
