@@ -11,9 +11,6 @@ class Arrays3{
 					max="present";
 					break;
 				}
-				else{
-					max="absent";
-				}
 			
 		}
 		System.out.println(max);
